@@ -63,8 +63,8 @@ Contoh list nama murid:
 Contoh multiple choices:
 
 - [x] Mandi
-- [] Makan
-- [] Tidur
+- [ ] Makan
+- [ ] Tidur
 
 Contoh tabel dengan 2 kolom:
 
