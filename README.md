@@ -89,3 +89,12 @@ Contoh image:
         Ini HTML element, kita bisa memasukkan HTML element ke dalam markdown file
     </p>
 </div>
+
+Contoh markdown:
+
+<details>
+    <summary>
+        Contoh ringkasan dropdown
+    </summary>
+    Contoh isi dropdown
+</details>
