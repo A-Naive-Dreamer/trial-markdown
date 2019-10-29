@@ -19,7 +19,7 @@ _Ini teks miring_
 Contoh membuat potongan kode HTML:
 
 ```html
-<h1>Hello world!</h1>
+    <h1>Hello world!</h1>
 ```
 
 Contoh membuat potongan kode JS:
@@ -31,9 +31,9 @@ Contoh membuat potongan kode JS:
 Contoh membuat potongan kode CSS:
 
 ```css
-h1 {
-  font-size: 14px;
-}
+    h1 {
+        font-size: 14px;
+    }
 ```
 
 Contoh membuat potongan kode Shell:
